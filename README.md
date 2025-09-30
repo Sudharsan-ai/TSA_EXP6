@@ -102,21 +102,25 @@ if len(data_weekly) >= 4:
 ```
 
 ### OUTPUT:
- 1. Scaled Weekly Sales Data (Date vs Mean Amount)
+## Scaled Weekly Sales Data (Date vs Mean Amount)
 
+![alt text](<Screenshot 2025-09-30 133452.png>)
 
+## Seasonal Decomposition (Weekly Additive Model)
 
-2. Seasonal Decomposition (Weekly Additive Model)
+![alt text](<Screenshot 2025-09-30 133504.png>)
 
+## Train vs Test Predictions (Weekly Sales)
 
-3. Train vs Test Predictions (Weekly Sales)
+![alt text](<Screenshot 2025-09-30 133527.png>)
 
+## RMSE Evaluation
 
+![alt text](<Screenshot 2025-09-30 133547.png>)
 
-4. Final Forecast (Weekly Sales - Date vs Mean Amount)
+## Final Forecast (Weekly Sales - Date vs Mean Amount)
 
-
- 
+ ![alt text](<Screenshot 2025-09-30 133600.png>)
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
